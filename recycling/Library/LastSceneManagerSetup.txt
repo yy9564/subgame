@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ToonyTinyPeople/TT_demo/sample_scene/TT_Citizens_sample_scene.unity
+- path: Assets/Furniture_ges1/scene.unity
   isLoaded: 1
   isActive: 1
